@@ -1,0 +1,4 @@
+const maxNum = 100
+for (i : range(maxNum)) {
+	print(i)
+}
